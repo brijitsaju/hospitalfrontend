@@ -1,0 +1,93 @@
+
+.head1{
+    font-size: 80px;
+}
+.bloodbutton{
+    font-size: 90px;
+}
+.button{
+   margin-left: 570px;
+}
+.para2{
+    padding: 60px;
+    text-align: justify;
+    margin-left: "70px";
+    margin-top: "30px",
+
+    
+     
+     
+}
+img .image1{
+    width: '500px';
+    height:'490px' ;
+   margin-left: -10px;
+   
+}
+.background{
+    background-image: url(https://hms.harvard.edu/sites/default/files/media/800-Doctors-Talking-GettyImages-1421919753.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    margin: 200px;
+    opacity: .8;
+}
+@media (max-width: 768px) {
+    .col-md-6 {
+        width: 100%;
+    }
+    .image1{
+        margin-left: 0px;
+        width: "100%";
+        height: "900px";
+    }
+}
+
+@media (max-width: 576px) {
+    .head1 {
+        font-size: 30px;
+    }
+    .para1{
+        font-size: 10px;
+    }
+    .head2 {
+        font-size: 30px;
+    }
+    .bloodbutton{
+        font-size:30px ;
+        padding: 30px;
+    }
+    .button{
+        margin-left: 70px;
+    }
+    .para2{
+        padding: 10px;
+        font-size: '20px';
+        margin-left: "10px";
+        margin-top: "10px",
+        
+        
+    }
+    .image1{
+        margin-left: 0px;
+        width: "100%";
+        height: "9000px";
+    }
+   .head2{
+    flex-direction: column;
+
+    }
+    .head3{
+        flex-direction: column;
+    
+        }
+        .background{
+            margin: 0px;
+            width: 400px;
+            height: 550px;
+            margin-bottom: 140px;
+        }
+    
+
+    
+}

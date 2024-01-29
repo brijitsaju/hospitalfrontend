@@ -1,0 +1,77 @@
+
+.head1{
+  font-size: 80px;
+}
+.bloodbutton{
+  font-size: 80px;
+}
+.link{
+  margin-top: 10px;
+}
+.link button
+{
+  font-size: 15px;
+
+
+}
+.para2{
+  padding: 60px;
+  text-align: justify;
+  margin-left: "70px";
+  margin-top: "30px",
+}
+
+@media (max-width: 768px) {
+  .col-md-6 {
+      width: 100%;
+  }
+}
+
+@media (max-width: 576px) {
+  .link{
+   margin-top: -15px;
+   
+   
+  }
+  .link button{
+   
+    width: 65px;
+    
+    padding-right: 1px;
+    padding-left: 1px;
+  }
+  .para2{
+    padding: 10px;
+    font-size: '20px';
+    margin-left: "10px";
+    margin-top: "10px",
+    
+    
+}
+  .bloodbutton{
+    font-size: 150px;
+}
+  .head1 {
+      font-size: 60px;
+  }
+  .para1{
+      font-size: 10px;
+  }
+  .head2 {
+      font-size: 30px;
+  }
+  .head3{
+    flex-direction: column;
+
+    }
+    .head4{
+      flex-direction: column;
+  
+      }
+      *{
+       
+        padding: 0px;
+        margin: 0px;
+        
+      }
+}

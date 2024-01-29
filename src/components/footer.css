@@ -1,0 +1,18 @@
+.footer a{
+    text-decoration: none;
+    color: rgb(77, 73, 73);
+    padding-bottom: 10px;
+}
+.footer{
+    background-color: rgba(227, 224, 224, 0.628);
+   
+    font-size: 13px;
+    color: gray;
+    
+}
+@media (max-width: 576px) {
+    .foot{
+        text-align: justify;
+        padding: 0px;
+    }
+}
