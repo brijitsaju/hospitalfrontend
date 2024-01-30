@@ -15,8 +15,8 @@ function Adminc() {
                 <div>
                     <div style={{ position: "relative" }}>
                         <div className='col-6' style={{ position: "absolute", textAlign: "center", margin: "40px" }}>
-                            <h1 style={{ marginTop: "50px", fontWeight: "bolder", color: "white" }} className='head1'>Making <br /> <span style={{ color: "black" }}>Health Care </span> Better Together</h1>
-                            <p className='para1' style={{ textAlign: "justify", padding: "20px", color: "white" }} >Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque magnam saepe molestias, distinctio quis minus tenetur ipsam maiores veniam dolores voluptatibus reprehenderit earum aspernatur possimus, animi accusantium </p>
+                            <h1 style={{ fontWeight: "bolder", color: "white" }} className='head1'>Making <br /> <span style={{ color: "black" }}>Health Care </span> Better Together</h1>
+                            <p className='para1' style={{ textAlign: "justify", color: "white" }} >Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque magnam saepe molestias, distinctio quis minus tenetur ipsam maiores veniam dolores voluptatibus reprehenderit earum aspernatur possimus, animi accusantium </p>
     
     
                             <div className='link'>

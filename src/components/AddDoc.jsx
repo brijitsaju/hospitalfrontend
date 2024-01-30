@@ -1,6 +1,5 @@
 import React, { useContext, useEffect, useState } from 'react'
 import { Row, Col } from 'react-bootstrap'
-import Header from './Header'
 import Table from 'react-bootstrap/Table';
 import { addDoc, alldoc, deletedoc } from '../services/allAPI';
 import Swal from 'sweetalert2';
@@ -131,7 +130,7 @@ function AddDoc() {
 
     return (
         <>
-            <Header />
+           
             <div className='mt-5'><h1 style={{ alignItems: "center", justifyContent: "center", display: "flex" }}>ADD DOCTORS</h1></div>
             <Row>
                 <Col md={2} sm={12}></Col>

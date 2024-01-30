@@ -73,7 +73,7 @@ function DocDetails() {
                     src={item.docImage ? `${BASE_URL}/uploads/${item.docImage}` : 'https://www.pngall.com/wp-content/uploads/5/Profile-Male-PNG.png'}
                     alt=""
                     className="img-fluid rounded-top"
-                    style={{ height: '300px', objectFit: 'cover' }}
+                    style={{ height: '350px', objectFit: 'cover' }}
                   />
                   <Card.Body>
                     <Card.Title className="text-dark">{item.name}</Card.Title>

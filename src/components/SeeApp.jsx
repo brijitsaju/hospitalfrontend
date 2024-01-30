@@ -35,11 +35,11 @@ function SeeApp() {
             <Table striped hover variant="light" className='container mb-5'>
                 <thead>
                     <tr>
-                        <th>sl.no.</th>
-                        <th>patient Name</th>
+                        <th>Sl.No.</th>
+                        <th>Patient Name</th>
                         <th>Place</th>
                         <th>age</th>
-                        <th>Disease</th>
+                        <th>Symptoms</th>
                         <th>Doctor Name</th>
                         <th>Contact Number</th>
                         

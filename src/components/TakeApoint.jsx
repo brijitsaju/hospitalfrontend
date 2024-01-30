@@ -99,7 +99,7 @@ function TakeApoint({docname}) {
               />
             </Form.Group>
             <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
-              <Form.Label>Disease</Form.Label>
+              <Form.Label>Symptoms</Form.Label>
               <Form.Control
                 type="text"
                 placeholder=""
